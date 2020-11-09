@@ -7,7 +7,8 @@ Projeto criado a partir do curso referente a Less da Alura, com a aplicação do
 - Mixins;
 - Funções;
 - Variáveis;
-- Hierarquias.
+- Hierarquias;
+- Pseudo-elementos.
 
 ## Modificações
 
