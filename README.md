@@ -16,6 +16,16 @@ Site do curso: https://www.alura.com.br/curso-online-less-css-simples-e-produtiv
 
 Cor base, curvatura do botão referente aos Planos, organização dos arquivos .less ao invés de sua ramificação.
 
+## Exemplo de media-query diretamente no seletor
+
+header {
+	position: relative;
+	@media (max-width: 980px) {
+		height: auto;
+	}
+}
+
+
 ## Feito por
 
 Marcella Nery
